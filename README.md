@@ -1,0 +1,2 @@
+# -PhD_influence_impurity_defect_solubility_diffusion_oxygen-
+Part of my work realized during the years as a PhD student. I was in the team MEMO of the CIRIMAT lab in Toulouse. I study via a multi-scale approach the influence influence of H, C, N impurities and point defects on the solubility and diffusion of the oxygen in the nickel (fcc phase). My works was under the supervision of Damien Connétable and Daniel Monceau.
